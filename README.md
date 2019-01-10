@@ -1,13 +1,23 @@
-# README
-## This is the README for your extension "solarized-dark-operator-theme"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+<div align="center">
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+# Solarized Dark Operator Theme
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+A customized Solarized Dark theme based on Better Solarized Dark with Operator Mono support for Visual Studio Code.
 
-**Enjoy!**
+[![vscode](https://img.shields.io/badge/vscode-v1.12+-373277.svg?style=for-the-badge)](https://code.visualstudio.com/updates/v1_12)
+
+<img src="https://i.imgur.com/D244Hgg.jpg" width="680">
+
+</div>
+
+# Installation
+
+1. Open the **Extensions** sidebar in VS Code. `View → Extensions`
+2. Search for and choose `Solarized Dark Operator Theme` by Chad Danna
+3. Click **Install** to install it
+4. Click **Reload** to reload your editor
+5. Navigate to File > Preferences > Color Theme > **Solarized Dark Operator Theme**
+6. Yay! You're all set 🎉🎉
+
+Designed by **[Chad Danna](https://github.com/chaddanna)** in **Denver, CO**.
+Follow me on **[Twitter](https://twitter.com/chaddillackin)**
