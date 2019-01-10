@@ -1,0 +1,26 @@
+{
+  "name": "solarized-dark-operator-theme",
+  "displayName": "Solarized Dark Operator Theme",
+  "description": "A customized Solarized Dark theme with Operator Mono support for Visual Studio Code.",
+  "version": "1.0.0",
+  "publisher": "Chad",
+  "engines": {
+    "vscode": "^1.30.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chaddanna/solarized-dark-operator-theme"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Solarized Dark Operator Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Solarized Dark Operator Theme-color-theme.json"
+      }
+    ]
+  }
+}
