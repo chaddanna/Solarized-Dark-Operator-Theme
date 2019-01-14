@@ -1250,14 +1250,14 @@
       "settings": {
         "fontStyle": "italic"
       }
-    },
-    {
-      "name": "Punctuation",
-      "scope": ["punctuation", "meta.brace.round.js", "meta.brace.square.js"],
-      "settings": {
-        "foreground": "#CB4B16"
-      }
     }
+    // {
+    //   "name": "Punctuation",
+    //   "scope": ["punctuation", "meta.brace.round.js", "meta.brace.square.js"],
+    //   "settings": {
+    //     "foreground": "#CB4B16"
+    //   }
+    // }
   ],
   "colors": {
     // Base
